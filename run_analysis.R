@@ -1,3 +1,4 @@
+# NOTE: This file is designed to be run from within the UCI HAR Dataset folder.
 
 # Create path variable
 dataPath <- getwd()
